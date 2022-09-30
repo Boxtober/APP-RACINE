@@ -1,0 +1,30 @@
+.lmj-banner {
+	background-image: url(../assets/backg.jpg);
+
+	background-color: rgba(255, 255, 255, 0.753);
+	overflow: hidden;
+	
+	color: black;
+	text-align: right;
+	padding: 32px;
+	border-bottom: solid 3px rgb(255, 255, 255);
+	display: flex;
+
+	flex-direction: row;
+	align-items: center;
+}
+
+.lmj-title {
+	padding-left: 32px;
+	color: beige;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.lmj-logo {
+	height: 45px;
+	width: 45px;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.301);
+	border-radius: 5px;
+}
+
